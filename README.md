@@ -11,10 +11,10 @@ Logistic Regression Model: Implementation of a predictive model using logistic r
 Flask Deployment: Scripts and configurations for deploying the model using Flask.
 Data: Sample datasets used for training and testing the model.
 
-#Dependencies
+# Dependencies
 
-Python 3.11.1
-Flask
-scikit-learn
-pandas
-numpy
+ Python 3.11.1
+ Flask
+ scikit-learn
+ pandas
+ numpy
