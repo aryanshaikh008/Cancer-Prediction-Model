@@ -13,9 +13,9 @@ Data: Sample datasets used for training and testing the model.
 
 # Dependencies
 
- Python 3.11.1
- Flask
- scikit-learn
- pandas
- numpy
+# Python 3.11.1
+# Flask
+# scikit-learn
+ # pandas
+ # numpy
  
